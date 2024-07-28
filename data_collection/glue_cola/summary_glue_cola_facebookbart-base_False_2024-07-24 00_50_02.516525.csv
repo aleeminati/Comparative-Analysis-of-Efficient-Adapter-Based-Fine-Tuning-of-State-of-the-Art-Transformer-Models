@@ -1,0 +1,2 @@
+,user,generated_on,model_name,dataset_name,task_name,used_adapter,adapter_type,train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,epoch,train_samples,training_time,eval_loss,eval_matthews_correlation,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,epoch
+0,saad,2024-07-24 00:50:02.513938,facebook/bart-base,glue,cola,False,NA,1687.9791,50.658,6.333,6556206739891200.0,0.30992383180766375,10.0,10.0,8551,1688.3888721466064,2.0167903900146484,0.3653879990432156,5.2164,199.947,25.113,10.0,10.0

@@ -1,0 +1,2 @@
+,user,generated_on,model_name,dataset_name,task_name,used_adapter,adapter_type,train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,epoch,train_samples,training_time,eval_loss,eval_matthews_correlation,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,epoch
+0,saad,2024-07-23 23:51:36.777702,distilbert/distilbert-base-uncased,glue,cola,False,NA,689.9277,123.941,15.494,2831821814768640.0,0.17728137122458448,10.0,10.0,8551,690.6713552474976,1.7220187187194824,0.5052273447208777,2.0479,509.309,63.969,10.0,10.0

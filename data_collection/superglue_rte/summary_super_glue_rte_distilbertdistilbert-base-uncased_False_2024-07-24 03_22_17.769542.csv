@@ -1,0 +1,2 @@
+,user,generated_on,model_name,dataset_name,task_name,used_adapter,adapter_type,train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,epoch,train_samples,training_time,eval_loss,eval_accuracy,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,epoch
+0,saad,2024-07-24 03:22:17.766720,distilbert/distilbert-base-uncased,super_glue,rte,False,NA,377.1701,66.018,8.272,824609556633600.0,0.215516909574851,10.0,10.0,2490,377.66492462158203,3.0520098209381104,0.5776173285198556,1.1029,251.167,31.736,10.0,10.0

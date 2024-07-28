@@ -1,0 +1,2 @@
+,user,generated_on,model_name,dataset_name,task_name,used_adapter,adapter_type,train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss,epoch,epoch,train_samples,training_time,eval_loss,eval_accuracy,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,epoch
+0,saad,2024-07-23 16:06:11.551308,google/electra-base-discriminator,glue,wnli,False,NA,95.7283,66.334,8.357,417688800384000.0,0.6975354862213134,10.0,10.0,635,96.36411738395691,0.6905819177627563,0.5633802816901409,0.2637,269.29,34.135,10.0,10.0
