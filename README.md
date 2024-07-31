@@ -6,7 +6,7 @@ A capstone project for CS-7643, a graduate-level Deep Learning course at the Geo
 ## Team
 |  No. |        Name        |
 |:----:|:------------------:|
-|  1.  | Muhammad Ali Sheikh|
+|  1.  | Mohammad Ali Sheikh|
 |  2.  |   Muhammad Aleem   |
 |  3.  |  Saad M. Siddiqui  |
 |  4.  |   Kajol R. Singh   |
