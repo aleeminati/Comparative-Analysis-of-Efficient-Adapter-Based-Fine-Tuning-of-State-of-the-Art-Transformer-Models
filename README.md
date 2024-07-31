@@ -17,6 +17,11 @@ We quantified the tradeoff between performance and training time with [adapter-b
 1. supervised binary classification tasks from the [SuperGLUE benchmark](https://super.gluebenchmark.com/)
 2. supervised multi-class classification on the [Kaggle News Category dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
 
+## Quick Links
+- Our report can be found [here](./report/Project_Report___CS_7643___Big_Daaata.pdf)
+- Code used to run SuperGLUE experiments is [here](./code/main_superglue.ipynb)
+- Code used to run News Category Classification experiments is [here](./code/news_dataset_adaptertuning.ipynb)
+
 ## Results
 Our experiments on SuperGLUE show that adapters achieve up to ~95% of the performance of conventional fine-tuning while requiring upto 40% less training time.
 ![image](./images/normalized_performance.png)
